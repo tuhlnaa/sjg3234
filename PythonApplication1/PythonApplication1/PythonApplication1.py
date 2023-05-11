@@ -26,3 +26,4 @@ axs[1, 0].imshow(split_img[2])
 axs[1, 1].imshow(split_img[3])
 
 print(split_img[0].shape)
+print(split_img[0].shape)
